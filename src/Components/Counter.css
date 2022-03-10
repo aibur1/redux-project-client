@@ -1,0 +1,16 @@
+.counter{
+    background-image: url(./../images/counter_background.jpg);
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.counter_heading{
+    font-size: 50px;
+}
+.counter_heading2{
+    padding-top: 120px;
+}
+.counter_text{
+    font-size: 23px;
+}
